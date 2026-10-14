@@ -52,4 +52,4 @@ This is an educational project, not a clinically validated
 diagnostic tool. Results depend on the dataset and evaluation split.
 
 ## Author
-[Your Name]
+Ashwiniya P V
